@@ -1,0 +1,24 @@
+h1 {color: blue; text-align: center; font-size: 4em;}
+
+h2 {color: black; ;background-color: beige; border-style: solid;border-width: 10px;
+aspect-ratio: 0; border-radius: 1px; border-collapse: collapse; width: 200px;text-align: center;
+height: 50px;font-size: 2em;}
+
+section {background-color: beige;font-size: medium; 
+   font-family: 'Times New Roman', Times, serif;
+border-style: solid;width: 200px; height: 150px;}
+
+ #DRYG {position: relative; left: 206px;bottom: 156px;}
+
+h3 {color: black; ;background-color: beige; border-style: solid;border-width: 10px;
+   aspect-ratio: 0; border-radius: 1px; border-collapse: collapse; width: 200px;text-align: center;
+   height: 50px;font-size: 2em ;position: relative; bottom: 150px;}
+
+#VEG {position: relative;bottom: 150px;}
+
+#SNACK {position: relative;left: 206px;bottom: 306px;}
+
+ .peppers-1 {position: relative;left: 450px;bottom: 200px;
+padding: 5rem;}
+
+.pizzaimg-1 {position: relative;left: 450px;padding: 5rem;bottom: 210px;transform: scale(0.8);}
